@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ImagarTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ImagarTest_jar</output-path>
+    <root id="archive" name="ImagarTest.jar">
+      <element id="module-output" name="ImagarTest" />
+      <element id="extracted-dir" path="E:/01 - PROGRAMAS/04 - DAM/06 - Acceso a Datos/00 - Libraries/commons-io-2.6/commons-io-2.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
